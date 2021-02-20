@@ -3,7 +3,7 @@
 Export script for [bjorn/tiled](https://github.com/bjorn/tiled) map editor with export for [Tangaria](http://tangaria.com/) project running on [PWMAngband](http://powerwyrm.monsite-orange.fr/page-56e3134c5ebab.html) base.
 
 Place the script to:
-C:/Users/<USER>/AppData/Local/Tiled/extensions/
+C:/Users/[USER]/AppData/Local/Tiled/extensions/
 or read the manual to know where you should place the script: https://doc.mapeditor.org/en/latest/reference/scripting/#script-extensions
 
 Important:
